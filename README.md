@@ -3,6 +3,9 @@ Hands-on Linux labs exploring SysVinit, OpenRC, runit, and systemd, including th
 
 # 🐧 Linux Init Systems Lab
 
+<img width="1536" height="864" alt="linux init 6" src="https://github.com/user-attachments/assets/718fc98c-72e8-4943-80b8-cf01d38d16ce" />
+
+
 **Understanding how Linux boots, starts services, and manages processes.**
 
 ![Linux](https://img.shields.io/badge/Platform-Linux-black?logo=linux)
@@ -45,6 +48,9 @@ Four implementations explored in this repository are:
 | OpenRC | Dependency-aware service management | Runlevels and service dependencies |
 | runit | Lightweight service supervision | Monitoring and restarting services |
 | systemd | Integrated service and system management | Units, dependencies, targets, timers, and journaling |
+
+<img width="1328" height="784" alt="Linux init 7 sketch" src="https://github.com/user-attachments/assets/d2151692-bcf5-4903-9524-f8492ed75331" />
+
 
 These systems are alternatives, not four components that must all run together.
 
